@@ -1,2 +1,2 @@
-# Correlacao_roaunet
+# Correlacao_rouanet
  Esse estudo tem por objetivo responder as seguintes questões:  O percentual captado, sendo esse a divisão entre o valor captado e o valor aprovado, sofre influência do valor aprovado? Ou seja, quanto maior for o valor do projeto, maior, proporcionalmente, o valor captado? O percentual captado sofre influência da quantidade de projetos do proponente? Ou seja, quanto mais projetos o proponente tiver, maior, proporcionalmente, o valor captado? O percentual captado sofre influência do tempo disponível para captação? Ou seja, quanto mais tempo o projeto tiver para captar, maior,proporcionalmente, o valor captado? O percentual captado varia, consideravelmente, de acordo com a Área Cultural do projeto?
